@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 💻 &nbsp; Java | Javascript | Php | Golang | C# 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | AngularJS
 - 🎮 &nbsp; I Play alot of PES and FIFA(oops sorry not fully into game development but i love the prospect>
-- 🛢 &nbsp; Microsoft SQL Server| MySQL|MongoDB | Firebase| Redis| Hazelcast
-- 🔧 &nbsp; Git | Postman API | Soap UI | Apache JMeter| Adobe XD/Figma | Android Studio | IntelliJ | VS Code | Netbean&
-- 🔭 &nbsp; DOcker | Kubernetes | GCP | AWS |Azure
+- 🛢 &nbsp; Microsoft SQL Server| MySQL| MongoDB | Firebase| Redis| Hazelcast
+- 🔧 &nbsp; Git | Postman API | Soap UI | Apache JMeter| Adobe XD/Figma | Android Studio | IntelliJ | VS Code | Netbean
+- 🔭 &nbsp; Docker | Kubernetes | GCP | AWS |Azure
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=olorunlexe&show_icons=true)
 
