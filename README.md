@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h3> 👨🏻‍ About Agboola Emmanuel Olorunleke <💻olorunlexe> </h3>
-- 🎓 &nbsp; A Interswitch Software Engineering Academy Cohort 1 Graduate.
+- 🎓 &nbsp; A Interswitch Software Engineering Academy Cohort 1 Graduate[2018].
 - 🤔 &nbsp; Exploring new technologies and developing software solutions, quick hacks and having fun along the way.
 - 🌱 &nbsp; Always Learning, interests are Secure Coding, Blockchain Technology, Artificial INtelligence.
 - Open for project collaboration and Remote working opportunities. 
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 
 
- ⭐️ From [Olorunlexe](https://github.com/[olorunlexe])
+ ⭐️ From [Olorunlexe](https://github.com/olorunlexe)
